@@ -70,3 +70,53 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven specific
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle specific
+.gradle/
+build/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Compiled source #
+*.class
+
+# Logs
+*.log
+logs/
+
+# Dependency directories
+node_modules/
+npm-debug.log*
+
+# Distribution files
+dist/
