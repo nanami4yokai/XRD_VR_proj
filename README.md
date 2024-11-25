@@ -1,2 +1,5 @@
 # XRD_VR_proj
-XRD course VR project
+
+Please checkout this link for a showcase of the project:
+
+[Tavern showcase](https://youtu.be/ybBaQD_eXbs)
